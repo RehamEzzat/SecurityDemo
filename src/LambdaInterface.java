@@ -1,0 +1,3 @@
+interface LambdaInterface {
+    void lambdaFunction();
+}
